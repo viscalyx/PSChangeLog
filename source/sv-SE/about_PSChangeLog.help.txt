@@ -1,0 +1,25 @@
+TOPIC
+    about_PSChangeLog
+
+SHORT DESCRIPTION
+    Hantera förändringsloggningsfiler i formatet keepachangelog.com.
+
+LONG DESCRIPTION
+    Hantera förändringsloggningsfiler i formatet keepachangelog.com.
+
+EXAMPLES
+    PS C:\> Get-Command -Module PSChangeLog
+
+NOTE:
+    Tack till alla som bidragit till denna modul genom att skriva kod, dela åsikter,
+    och återkopplat med information.
+
+TROUBLESHOOTING NOTE:
+    Gå till kodbiblioteket på GitHub för att läsa om ärenden, skapa ett nytt ärenden,
+    och läsa om nya versioner. https://github.com/johlju/PSChangeLog
+
+SEE ALSO
+    - https://github.com/johlju/PSChangeLog
+
+KEYWORDS
+    changelog, keepachangelog, förändringslogg

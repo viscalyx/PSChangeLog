@@ -1,0 +1,25 @@
+TOPIC
+    about_PSChangeLog
+
+SHORT DESCRIPTION
+    Manage change log files in the keepachangelog.com format.
+
+LONG DESCRIPTION
+    Manage change log files in the keepachangelog.com format.
+
+EXAMPLES
+    PS C:\> Get-Command -Module PSChangeLog
+
+NOTE:
+    Thank you to the contributors who contributed to this module by
+    writing code, sharing opinions, and provided feedback.
+
+TROUBLESHOOTING NOTE:
+    Go to the GitHub repository for read about issues, submit a new issue, and read
+    about new releases. https://github.com/johlju/PSChangeLog
+
+SEE ALSO
+    - https://github.com/johlju/PSChangeLog
+
+KEYWORDS
+    changelog, keepachangelog
